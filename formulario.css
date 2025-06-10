@@ -1,0 +1,58 @@
+.formulario {
+    width: 300px;
+    margin: 0 auto;
+    background-color: #444;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+   margin: auto;
+}
+
+
+.textointeiro {
+    color: #e0e0e0;
+    padding: 8px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    max-width: 1300px;
+    margin: auto;
+    background-color: rgba(8, 8, 8, 0.6);
+    line-height: 1.6;
+
+}
+
+
+#color{
+    color: white;
+    text-decoration: none;
+}
+.formulario button {
+    background-color: #161616;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 8px;
+    font-weight: bold;
+    width: 100%;
+}
+.curso{
+    margin-bottom: 5px;
+}
+.disciplina{
+    margin-bottom: 5px;
+}
+.turno{
+    margin-bottom: 5px;
+}
+.idiomas{
+    margin-bottom: 5px;
+}
+.nome{
+    margin-bottom: 10px;
+}
+.sobrenome{
+    margin-bottom: 15px;
+}
